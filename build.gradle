@@ -1,0 +1,5 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
+    implementation 'org.mongodb:mongodb-driver-sync:4.13.0' // Add this line
+}
